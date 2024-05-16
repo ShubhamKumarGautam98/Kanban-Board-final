@@ -1,0 +1,78 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3accaff2-95c0-4f5b-bacb-4249d94e92aa\" name=\"Changes\" comment=\"Application properties updated\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/userauthenticationservice/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/userauthenticationservice/pom.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/userauthenticationservice/src/main/java/com/niit/project/userauthenticationservice/security/JWTSecurityTokenGenerator.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/userauthenticationservice/src/main/java/com/niit/project/userauthenticationservice/security/JWTSecurityTokenGenerator.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2cdYqHUix98h8sfJfDmmjGw5Lw0\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ASKED_ADD_EXTERNAL_FILES\": \"true\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"project.structure.last.edited\": \"Project\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.0\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"UserAuthenticationServiceApplication\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.niit.project.userauthenticationservice.UserAuthenticationServiceApplication\" />\r\n      <module name=\"userauthenticationservice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.niit.project.userauthenticationservice.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <module name=\"Kanban Board\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <module name=\"Kanban Board\" />\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.UserAuthenticationServiceApplication\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3accaff2-95c0-4f5b-bacb-4249d94e92aa\" name=\"Changes\" comment=\"\" />\r\n      <created>1708420669437</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1708420669437</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"started\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708421271711</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708421271711</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"started\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708423070225</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708423070225</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"updated UserService\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708443467339</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708443467339</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"security is created\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708495653761</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708495653761</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"security checking\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708495846412</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708495846412</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"security package is created\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708495897559</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708495897559</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"jwt security updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708498293469</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708498293469</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Application properties updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708498937269</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708498937269</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"9\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"started\" />\r\n    <MESSAGE value=\"updated UserService\" />\r\n    <MESSAGE value=\"security is created\" />\r\n    <MESSAGE value=\"security checking\" />\r\n    <MESSAGE value=\"security package is created\" />\r\n    <MESSAGE value=\"jwt security updated\" />\r\n    <MESSAGE value=\"Application properties updated\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Application properties updated\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,11 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="3accaff2-95c0-4f5b-bacb-4249d94e92aa" name="Changes" comment="Application properties updated">
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++    <list default="true" id="3accaff2-95c0-4f5b-bacb-4249d94e92aa" name="Changes" comment="annoation service in jwt">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/userauthenticationservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/userauthenticationservice/pom.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/userauthenticationservice/src/main/java/com/niit/project/userauthenticationservice/security/JWTSecurityTokenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/userauthenticationservice/src/main/java/com/niit/project/userauthenticationservice/security/JWTSecurityTokenGenerator.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -41,17 +38,17 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ASKED_ADD_EXTERNAL_FILES": "true",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
+-    "project.structure.last.edited": "Project",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager">
+     <configuration name="UserAuthenticationServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.niit.project.userauthenticationservice.UserAuthenticationServiceApplication" />
+@@ -158,7 +155,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1708498937269</updated>
+     </task>
+-    <option name="localTasksCounter" value="9" />
++    <task id="LOCAL-00009" summary="annoation service in jwt">
++      <option name="closed" value="true" />
++      <created>1708499561387</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1708499561387</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+@@ -169,6 +174,7 @@
+     <MESSAGE value="security package is created" />
+     <MESSAGE value="jwt security updated" />
+     <MESSAGE value="Application properties updated" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Application properties updated" />
++    <MESSAGE value="annoation service in jwt" />
++    <option name="LAST_COMMIT_MESSAGE" value="annoation service in jwt" />
+   </component>
+ </project>
+\ No newline at end of file

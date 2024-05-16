@@ -1,0 +1,984 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3accaff2-95c0-4f5b-bacb-4249d94e92aa\" name=\"Changes\" comment=\"User controller updated\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/AdminController.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/AdminController.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/eurekaserver/pom.xml\" root0=\"SKIP_INSPECTION\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2cdYqHUix98h8sfJfDmmjGw5Lw0\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"Application.UserAuthenticationServiceApplication\">\r\n    <configuration name=\"ApiGatewayApplication\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.niit.project.apigateway.ApiGatewayApplication\" />\r\n      <module name=\"apigateway\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.niit.project.apigateway.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"BoardTaskServiceApplication\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.niit.project.boardtaskservice.BoardTaskServiceApplication\" />\r\n      <module name=\"boardtaskservice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.niit.project.boardtaskservice.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"EurekaServerApplication\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.niit.project.eurekaserver.EurekaServerApplication\" />\r\n      <module name=\"eurekaserver\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.niit.project.eurekaserver.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"UserAuthenticationServiceApplication\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.niit.project.userauthenticationservice.UserAuthenticationServiceApplication\" />\r\n      <module name=\"userauthenticationservice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.niit.project.userauthenticationservice.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"ITaskRepositoryTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"boardtaskservice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.niit.project.boardtaskservice.repository.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"com.niit.project.boardtaskservice.repository\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.niit.project.boardtaskservice.repository.ITaskRepositoryTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\r\n      <module name=\"Kanban Board\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\r\n      <module name=\"Kanban Board\" />\r\n      <option name=\"filePath\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.UserAuthenticationServiceApplication\" />\r\n        <item itemvalue=\"Application.ApiGatewayApplication\" />\r\n        <item itemvalue=\"Application.EurekaServerApplication\" />\r\n        <item itemvalue=\"Application.BoardTaskServiceApplication\" />\r\n        <item itemvalue=\"JUnit.ITaskRepositoryTest\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3accaff2-95c0-4f5b-bacb-4249d94e92aa\" name=\"Changes\" comment=\"\" />\r\n      <created>1708420669437</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1708420669437</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"started\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708421271711</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708421271711</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"started\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708423070225</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708423070225</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"updated UserService\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708443467339</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708443467339</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"security is created\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708495653761</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708495653761</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"security checking\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708495846412</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708495846412</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"security package is created\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708495897559</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708495897559</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"jwt security updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708498293469</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708498293469</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Application properties updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708498937269</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708498937269</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"jwt token security updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708500192558</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708500192558</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"IRepository updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708603781826</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708603781826</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"ITaskService And Proxy updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708609359280</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708609359280</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"register,savetask,updated task implemented\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708621466516</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708621466516</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"testing service layer login success and fail are updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708625633406</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708625633406</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"getUserName,getAllUser,getUserRole methods are updated in taskservice\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708626050836</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708626050836</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"userauth repository test case is updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708626533067</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708626533067</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"service interface changes are updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708668428842</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708668428842</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"JWTFilter updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708670581884</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708670581884</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"usercontroller layer updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708672581325</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708672581325</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"taskcontroller layer updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708673655848</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708673655848</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"taskcontroller layer methods updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708679464725</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708679464725</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"apigateway updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708680759507</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708680759507</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"apigateway updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708681307335</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708681307335</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"apigateway updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708681837287</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708681837287</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708685745360</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708685745360</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"Annotations and Application.properties updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708705904757</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708705904757</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"controller for (save task to user,get one task,get all task) service testing\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708871376856</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708871376856</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00027\" summary=\"controller for (save task to user,get one task,get all task) service testing\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708871413309</created>\r\n      <option name=\"number\" value=\"00027\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00027\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708871413309</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00028\" summary=\"delete user is updated inn= service and controller\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708877706216</created>\r\n      <option name=\"number\" value=\"00028\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00028\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708877706216</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00029\" summary=\"controller updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708881214067</created>\r\n      <option name=\"number\" value=\"00029\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00029\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708881214067</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00030\" summary=\"api gateway is updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708881820173</created>\r\n      <option name=\"number\" value=\"00030\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00030\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708881820174</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00031\" summary=\"role hard code is updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1708965437314</created>\r\n      <option name=\"number\" value=\"00031\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00031\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1708965437314</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00032\" summary=\"jwt  updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1709052898373</created>\r\n      <option name=\"number\" value=\"00032\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00032\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1709052898373</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00033\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1709053308076</created>\r\n      <option name=\"number\" value=\"00033\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00033\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1709053308076</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00034\" summary=\"updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1709053338723</created>\r\n      <option name=\"number\" value=\"00034\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00034\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1709053338723</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00035\" summary=\"admin impl and IAdminservice are updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1709054050888</created>\r\n      <option name=\"number\" value=\"00035\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00035\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1709054050888</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00036\" summary=\"aboardTaskService(UserController) updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1709055085222</created>\r\n      <option name=\"number\" value=\"00036\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00036\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1709055085222</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00037\" summary=\"User controller updated\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1709055592684</created>\r\n      <option name=\"number\" value=\"00037\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00037\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1709055592684</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"38\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"IRepository updated\" />\r\n    <MESSAGE value=\"IRepository AND PROXY updated\" />\r\n    <MESSAGE value=\"ITaskService And Proxy updated\" />\r\n    <MESSAGE value=\"register,savetask,updated task implemented\" />\r\n    <MESSAGE value=\"testing service layer login success and fail are updated\" />\r\n    <MESSAGE value=\"getUserName,getAllUser,getUserRole methods are updated in taskservice\" />\r\n    <MESSAGE value=\"userauth repository test case is updated\" />\r\n    <MESSAGE value=\"service interface changes are updated\" />\r\n    <MESSAGE value=\"JWTFilter updated\" />\r\n    <MESSAGE value=\"usercontroller layer updated\" />\r\n    <MESSAGE value=\"taskcontroller layer updated\" />\r\n    <MESSAGE value=\"taskcontroller layer methods updated\" />\r\n    <MESSAGE value=\"apigateway updated\" />\r\n    <MESSAGE value=\"an\" />\r\n    <MESSAGE value=\"Annotations and Application.properties updated\" />\r\n    <MESSAGE value=\"controller for (save task to user,get one task,get all task) service testing\" />\r\n    <MESSAGE value=\"delete user is updated inn= service and controller\" />\r\n    <MESSAGE value=\"controller updated\" />\r\n    <MESSAGE value=\"api gateway is updated\" />\r\n    <MESSAGE value=\"role hard code is updated\" />\r\n    <MESSAGE value=\"jwt  updated\" />\r\n    <MESSAGE value=\"updated\" />\r\n    <MESSAGE value=\"admin impl and IAdminservice are updated\" />\r\n    <MESSAGE value=\"aboardTaskService(UserController) updated\" />\r\n    <MESSAGE value=\"User controller updated\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"User controller updated\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,8 +5,42 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="3accaff2-95c0-4f5b-bacb-4249d94e92aa" name="Changes" comment="User controller updated">
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21-02-2024_12_12_[Changes]1/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21-02-2024_12_12__Changes_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21-02-2024_12_19_[Changes]1/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21-02-2024_12_19__Changes_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21-02-2024_12_22_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_21-02-2024_12_22__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-02-2024_17_02_[Changes]1/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22-02-2024_17_02__Changes_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-02-2024_12_14_[Changes]1/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-02-2024_12_14__Changes_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-02-2024_14_41_[Changes]1/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-02-2024_14_41__Changes_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-02-2024_16_26_[Changes]1/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-02-2024_16_26__Changes_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-02-2024_17_01_[Changes]1/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23-02-2024_17_01__Changes_1.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27-02-2024_22_56__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27-02-2024_22_56__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_21_2024_12_11_PM_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_21_2024_12_11_PM__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_22_2024_11_57_PM_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_22_2024_11_57_PM__Changes_.xml" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_23_2024_11_32_AM_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_23_2024_11_32_AM__Changes_.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/apigateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apigateway/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/apigateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/apigateway/src/main/resources/application.properties" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/AdminController.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/UserController.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/services/ITaskService.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/services/TaskServiceImpl.java" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/boardtaskservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/boardtaskservice/src/main/resources/application.properties" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/AdminControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/AdminControllerTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/UserControllerTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/service/TaskServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/service/TaskServiceTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/userauthenticationservice/src/main/java/com/niit/project/userauthenticationservice/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/userauthenticationservice/src/main/java/com/niit/project/userauthenticationservice/controller/UserController.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/userauthenticationservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/userauthenticationservice/src/main/resources/application.properties" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -26,6 +60,7 @@
+   </component>
+   <component name="HighlightingSettingsPerFile">
+     <setting file="file://$PROJECT_DIR$/eurekaserver/pom.xml" root0="SKIP_INSPECTION" />
++    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -55,7 +90,7 @@
+     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+   }
+ }</component>
+-  <component name="RunManager" selected="Application.UserAuthenticationServiceApplication">
++  <component name="RunManager" selected="Application.ApiGatewayApplication">
+     <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.niit.project.apigateway.ApiGatewayApplication" />
+       <module name="apigateway" />
+@@ -140,8 +175,8 @@
+       <list>
+         <item itemvalue="Application.UserAuthenticationServiceApplication" />
+         <item itemvalue="Application.ApiGatewayApplication" />
+-        <item itemvalue="Application.EurekaServerApplication" />
+         <item itemvalue="Application.BoardTaskServiceApplication" />
++        <item itemvalue="Application.EurekaServerApplication" />
+         <item itemvalue="JUnit.ITaskRepositoryTest" />
+       </list>
+     </recent_temporary>
+@@ -451,11 +486,18 @@
+       <option name="project" value="LOCAL" />
+       <updated>1709055592684</updated>
+     </task>
+-    <option name="localTasksCounter" value="38" />
++    <task id="LOCAL-00038" summary="BoardTaskServiceApplication url updated">
++      <option name="closed" value="true" />
++      <created>1709060411583</created>
++      <option name="number" value="00038" />
++      <option name="presentableId" value="LOCAL-00038" />
++      <option name="project" value="LOCAL" />
++      <updated>1709060411583</updated>
++    </task>
++    <option name="localTasksCounter" value="39" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+-    <MESSAGE value="IRepository updated" />
+     <MESSAGE value="IRepository AND PROXY updated" />
+     <MESSAGE value="ITaskService And Proxy updated" />
+     <MESSAGE value="register,savetask,updated task implemented" />
+@@ -480,6 +522,18 @@
+     <MESSAGE value="admin impl and IAdminservice are updated" />
+     <MESSAGE value="aboardTaskService(UserController) updated" />
+     <MESSAGE value="User controller updated" />
+-    <option name="LAST_COMMIT_MESSAGE" value="User controller updated" />
++    <MESSAGE value="BoardTaskServiceApplication url updated" />
++    <option name="LAST_COMMIT_MESSAGE" value="BoardTaskServiceApplication url updated" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/userauthenticationservice/src/main/java/com/niit/project/userauthenticationservice/controller/UserController.java</url>
++          <line>16</line>
++          <option name="timeStamp" value="1" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
+   </component>
+ </project>
+\ No newline at end of file
+Index: boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/AdminControllerTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.niit.project.boardtaskservice.controller;\r\n\r\nimport com.niit.project.boardtaskservice.domain.Task;\r\nimport com.niit.project.boardtaskservice.domain.UserDetails;\r\nimport com.niit.project.boardtaskservice.services.TaskServiceImpl;\r\nimport org.junit.jupiter.api.AfterEach;\r\nimport org.junit.jupiter.api.BeforeEach;\r\nimport org.junit.jupiter.api.Test;\r\nimport org.junit.jupiter.api.extension.ExtendWith;\r\nimport org.mockito.InjectMocks;\r\nimport org.mockito.Mock;\r\nimport org.mockito.junit.jupiter.MockitoExtension;\r\nimport org.springframework.test.web.servlet.MockMvc;\r\nimport org.springframework.test.web.servlet.setup.MockMvcBuilders;\r\n\r\nimport java.util.Arrays;\r\nimport java.util.List;\r\n\r\nimport static org.mockito.ArgumentMatchers.any;\r\nimport static reactor.core.publisher.Mono.when;\r\n\r\n@ExtendWith(MockitoExtension.class)\r\nclass AdminControllerTest {\r\n\r\n    private MockMvc mockMvc;\r\n\r\n    @Mock\r\n    private TaskServiceImpl taskService;\r\n\r\n    @InjectMocks\r\n    private AdminController adminController;\r\n\r\n    UserDetails user1, user2;\r\n    Task task1, task2;\r\n    List<Task> taskList;\r\n    List<UserDetails> userList;\r\n\r\n    @BeforeEach\r\n    void setUp() {\r\n        task1 = new Task(1, \"KanbanBoard\", \"MajorProject\", \"12-03-2024\", \"anandha\", \"To do\");\r\n        task2 = new Task(2, \"KanbanBoard2\", \"MajorProject\", \"13-03-2024\", \"Shubham\", \"To do\");\r\n        taskList = Arrays.asList(task1, task2);\r\n\r\n        user1 = new UserDetails(\"sharath@gmail.com\", \"sharath\", \"124571\", \"Admin\", taskList);\r\n        user2 = new UserDetails(\"shubham@gmail.com\", \"shubham\", \"1241\", \"User\", taskList);\r\n        userList = Arrays.asList(user1, user2);\r\n\r\n        mockMvc = MockMvcBuilders.standaloneSetup(adminController).build();\r\n    }\r\n\r\n    @AfterEach\r\n    void tearDown() {\r\n        user1 = null;\r\n        user2 = null;\r\n//        taskList = null;\r\n        userList = null;\r\n    }\r\n\r\n    @Test\r\n    void updateTaskToUser() {\r\n    }\r\n\r\n    @Test\r\n    void deleteTaskToUser() {\r\n    }\r\n\r\n    @Test\r\n    void getUserName() {\r\n\r\n    }\r\n\r\n\r\n    @Test\r\n    void getUserRole() {\r\n    }\r\n\r\n    @Test\r\n    void getOneTaskById() {\r\n    }\r\n\r\n    @Test\r\n    void getAllTaskFromUser() {\r\n    }\r\n\r\n    @Test\r\n    void saveTaskToUser() {\r\n    }\r\n\r\n    @Test\r\n    void deleteUser() {\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/AdminControllerTest.java b/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/AdminControllerTest.java
+--- a/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/AdminControllerTest.java	
++++ b/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/AdminControllerTest.java	
+@@ -1,92 +1,91 @@
+-package com.niit.project.boardtaskservice.controller;
+-
+-import com.niit.project.boardtaskservice.domain.Task;
+-import com.niit.project.boardtaskservice.domain.UserDetails;
+-import com.niit.project.boardtaskservice.services.TaskServiceImpl;
+-import org.junit.jupiter.api.AfterEach;
+-import org.junit.jupiter.api.BeforeEach;
+-import org.junit.jupiter.api.Test;
+-import org.junit.jupiter.api.extension.ExtendWith;
+-import org.mockito.InjectMocks;
+-import org.mockito.Mock;
+-import org.mockito.junit.jupiter.MockitoExtension;
+-import org.springframework.test.web.servlet.MockMvc;
+-import org.springframework.test.web.servlet.setup.MockMvcBuilders;
+-
+-import java.util.Arrays;
+-import java.util.List;
+-
+-import static org.mockito.ArgumentMatchers.any;
+-import static reactor.core.publisher.Mono.when;
+-
+-@ExtendWith(MockitoExtension.class)
+-class AdminControllerTest {
+-
+-    private MockMvc mockMvc;
+-
+-    @Mock
+-    private TaskServiceImpl taskService;
+-
+-    @InjectMocks
+-    private AdminController adminController;
+-
+-    UserDetails user1, user2;
+-    Task task1, task2;
+-    List<Task> taskList;
+-    List<UserDetails> userList;
+-
+-    @BeforeEach
+-    void setUp() {
+-        task1 = new Task(1, "KanbanBoard", "MajorProject", "12-03-2024", "anandha", "To do");
+-        task2 = new Task(2, "KanbanBoard2", "MajorProject", "13-03-2024", "Shubham", "To do");
+-        taskList = Arrays.asList(task1, task2);
+-
+-        user1 = new UserDetails("sharath@gmail.com", "sharath", "124571", "Admin", taskList);
+-        user2 = new UserDetails("shubham@gmail.com", "shubham", "1241", "User", taskList);
+-        userList = Arrays.asList(user1, user2);
+-
+-        mockMvc = MockMvcBuilders.standaloneSetup(adminController).build();
+-    }
+-
+-    @AfterEach
+-    void tearDown() {
+-        user1 = null;
+-        user2 = null;
+-//        taskList = null;
+-        userList = null;
+-    }
+-
+-    @Test
+-    void updateTaskToUser() {
+-    }
+-
+-    @Test
+-    void deleteTaskToUser() {
+-    }
+-
+-    @Test
+-    void getUserName() {
+-
+-    }
+-
+-
+-    @Test
+-    void getUserRole() {
+-    }
+-
+-    @Test
+-    void getOneTaskById() {
+-    }
+-
+-    @Test
+-    void getAllTaskFromUser() {
+-    }
+-
+-    @Test
+-    void saveTaskToUser() {
+-    }
+-
+-    @Test
+-    void deleteUser() {
+-    }
+-}
+\ No newline at end of file
++//package com.niit.project.boardtaskservice.controller;
++//
++//import com.niit.project.boardtaskservice.domain.Task;
++//import com.niit.project.boardtaskservice.domain.UserDetails;
++//import org.junit.jupiter.api.AfterEach;
++//import org.junit.jupiter.api.BeforeEach;
++//import org.junit.jupiter.api.Test;
++//import org.junit.jupiter.api.extension.ExtendWith;
++//import org.mockito.InjectMocks;
++//import org.mockito.Mock;
++//import org.mockito.junit.jupiter.MockitoExtension;
++//import org.springframework.test.web.servlet.MockMvc;
++//import org.springframework.test.web.servlet.setup.MockMvcBuilders;
++//
++//import java.util.Arrays;
++//import java.util.List;
++//
++//import static org.mockito.ArgumentMatchers.any;
++//import static reactor.core.publisher.Mono.when;
++//
++//@ExtendWith(MockitoExtension.class)
++//class AdminControllerTest {
++//
++//    private MockMvc mockMvc;
++//
++//    @Mock
++//    private TaskServiceImpl taskService;
++//
++//    @InjectMocks
++//    private AdminController adminController;
++//
++//    UserDetails user1, user2;
++//    Task task1, task2;
++//    List<Task> taskList;
++//    List<UserDetails> userList;
++//
++//    @BeforeEach
++//    void setUp() {
++//        task1 = new Task(1, "KanbanBoard", "MajorProject", "12-03-2024", "anandha", "To do");
++//        task2 = new Task(2, "KanbanBoard2", "MajorProject", "13-03-2024", "Shubham", "To do");
++//        taskList = Arrays.asList(task1, task2);
++//
++//        user1 = new UserDetails("sharath@gmail.com", "sharath", "124571", "Admin", taskList);
++//        user2 = new UserDetails("shubham@gmail.com", "shubham", "1241", "User", taskList);
++//        userList = Arrays.asList(user1, user2);
++//
++//        mockMvc = MockMvcBuilders.standaloneSetup(adminController).build();
++//    }
++//
++//    @AfterEach
++//    void tearDown() {
++//        user1 = null;
++//        user2 = null;
++////        taskList = null;
++//        userList = null;
++//    }
++//
++//    @Test
++//    void updateTaskToUser() {
++//    }
++//
++//    @Test
++//    void deleteTaskToUser() {
++//    }
++//
++//    @Test
++//    void getUserName() {
++//
++//    }
++//
++//
++//    @Test
++//    void getUserRole() {
++//    }
++//
++//    @Test
++//    void getOneTaskById() {
++//    }
++//
++//    @Test
++//    void getAllTaskFromUser() {
++//    }
++//
++//    @Test
++//    void saveTaskToUser() {
++//    }
++//
++//    @Test
++//    void deleteUser() {
++//    }
++//}
+\ No newline at end of file
+Index: boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/UserControllerTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.niit.project.boardtaskservice.controller;\r\n\r\nimport com.fasterxml.jackson.databind.ObjectMapper;\r\nimport com.niit.project.boardtaskservice.domain.UserDetails;\r\nimport com.niit.project.boardtaskservice.exceptions.UserAlreadyExistsException;\r\nimport com.niit.project.boardtaskservice.services.TaskServiceImpl;\r\nimport org.junit.jupiter.api.AfterEach;\r\nimport org.junit.jupiter.api.BeforeEach;\r\nimport org.junit.jupiter.api.Test;\r\nimport org.junit.jupiter.api.extension.ExtendWith;\r\nimport org.mockito.InjectMocks;\r\nimport org.mockito.Mock;\r\nimport org.mockito.junit.jupiter.MockitoExtension;\r\nimport org.springframework.http.MediaType;\r\nimport org.springframework.test.web.servlet.MockMvc;\r\nimport org.springframework.test.web.servlet.request.MockMvcRequestBuilders;\r\nimport org.springframework.test.web.servlet.result.MockMvcResultHandlers;\r\nimport org.springframework.test.web.servlet.setup.MockMvcBuilders;\r\n\r\nimport java.util.Arrays;\r\nimport java.util.List;\r\n\r\n\r\nimport static org.junit.jupiter.api.Assertions.*;\r\nimport static org.mockito.ArgumentMatchers.any;\r\nimport static org.mockito.Mockito.*;\r\nimport static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;\r\n@ExtendWith(MockitoExtension.class)\r\nclass UserControllerTest {\r\n    private MockMvc mockMvc;\r\n\r\n    @Mock\r\n    private TaskServiceImpl taskService;\r\n\r\n    @InjectMocks\r\n    private UserController userController;\r\n\r\n    UserDetails user1 ,user2;\r\n\r\n    @BeforeEach\r\n    void setUp() {\r\n        user1=new UserDetails(\"sharath@gmail.com\",\"sharath\",\"124571\",\"Admin\",null);\r\n        user2=new UserDetails(\"shubham@gmail.com\",\"shubham\",\"1241\",\"User\",null);\r\n        mockMvc = MockMvcBuilders.standaloneSetup(userController).build();\r\n    }\r\n\r\n    @AfterEach\r\n    void tearDown() {\r\n        user1=null;\r\n        user2=null;\r\n    }\r\n\r\n    @Test\r\n    void registerUserSuccess() throws Exception {\r\n        when(taskService.registerUser(any())).thenReturn(user1);\r\n        mockMvc.perform(MockMvcRequestBuilders.post(\"/api/v3/saveUser\")\r\n                        .contentType(MediaType.APPLICATION_JSON)\r\n                        .content(asJSONString(user1)))\r\n                .andExpect(status().isAccepted())\r\n                .andDo(MockMvcResultHandlers.print());\r\n        verify(taskService,times(1)).registerUser(any());\r\n    }\r\n    @Test\r\n    public void registerUserFailure() throws Exception {\r\n        when(taskService.registerUser(any())).thenThrow(UserAlreadyExistsException.class);\r\n        mockMvc.perform(MockMvcRequestBuilders.post(\"/api/v3/saveUser\")\r\n                        .contentType(MediaType.APPLICATION_JSON)\r\n                        .content(asJSONString(user1)))\r\n                .andExpect(status().isConflict())\r\n                .andDo(MockMvcResultHandlers.print());\r\n        verify(taskService,times(1)).registerUser(any());\r\n    }\r\n    private static String asJSONString(Object user) {\r\n        try {\r\n            return new ObjectMapper().writeValueAsString(user);\r\n        } catch (Exception e) {\r\n            throw new RuntimeException(e);\r\n        }\r\n    }\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/UserControllerTest.java b/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/UserControllerTest.java
+--- a/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/UserControllerTest.java	
++++ b/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/controller/UserControllerTest.java	
+@@ -1,81 +1,76 @@
+-package com.niit.project.boardtaskservice.controller;
+-
+-import com.fasterxml.jackson.databind.ObjectMapper;
+-import com.niit.project.boardtaskservice.domain.UserDetails;
+-import com.niit.project.boardtaskservice.exceptions.UserAlreadyExistsException;
+-import com.niit.project.boardtaskservice.services.TaskServiceImpl;
+-import org.junit.jupiter.api.AfterEach;
+-import org.junit.jupiter.api.BeforeEach;
+-import org.junit.jupiter.api.Test;
+-import org.junit.jupiter.api.extension.ExtendWith;
+-import org.mockito.InjectMocks;
+-import org.mockito.Mock;
+-import org.mockito.junit.jupiter.MockitoExtension;
+-import org.springframework.http.MediaType;
+-import org.springframework.test.web.servlet.MockMvc;
+-import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
+-import org.springframework.test.web.servlet.result.MockMvcResultHandlers;
+-import org.springframework.test.web.servlet.setup.MockMvcBuilders;
+-
+-import java.util.Arrays;
+-import java.util.List;
+-
+-
+-import static org.junit.jupiter.api.Assertions.*;
+-import static org.mockito.ArgumentMatchers.any;
+-import static org.mockito.Mockito.*;
+-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+-@ExtendWith(MockitoExtension.class)
+-class UserControllerTest {
+-    private MockMvc mockMvc;
+-
+-    @Mock
+-    private TaskServiceImpl taskService;
+-
+-    @InjectMocks
+-    private UserController userController;
+-
+-    UserDetails user1 ,user2;
+-
+-    @BeforeEach
+-    void setUp() {
+-        user1=new UserDetails("sharath@gmail.com","sharath","124571","Admin",null);
+-        user2=new UserDetails("shubham@gmail.com","shubham","1241","User",null);
+-        mockMvc = MockMvcBuilders.standaloneSetup(userController).build();
+-    }
+-
+-    @AfterEach
+-    void tearDown() {
+-        user1=null;
+-        user2=null;
+-    }
+-
+-    @Test
+-    void registerUserSuccess() throws Exception {
+-        when(taskService.registerUser(any())).thenReturn(user1);
+-        mockMvc.perform(MockMvcRequestBuilders.post("/api/v3/saveUser")
+-                        .contentType(MediaType.APPLICATION_JSON)
+-                        .content(asJSONString(user1)))
+-                .andExpect(status().isAccepted())
+-                .andDo(MockMvcResultHandlers.print());
+-        verify(taskService,times(1)).registerUser(any());
+-    }
+-    @Test
+-    public void registerUserFailure() throws Exception {
+-        when(taskService.registerUser(any())).thenThrow(UserAlreadyExistsException.class);
+-        mockMvc.perform(MockMvcRequestBuilders.post("/api/v3/saveUser")
+-                        .contentType(MediaType.APPLICATION_JSON)
+-                        .content(asJSONString(user1)))
+-                .andExpect(status().isConflict())
+-                .andDo(MockMvcResultHandlers.print());
+-        verify(taskService,times(1)).registerUser(any());
+-    }
+-    private static String asJSONString(Object user) {
+-        try {
+-            return new ObjectMapper().writeValueAsString(user);
+-        } catch (Exception e) {
+-            throw new RuntimeException(e);
+-        }
+-    }
+-
+-}
++//package com.niit.project.boardtaskservice.controller;
++//
++//import com.fasterxml.jackson.databind.ObjectMapper;
++//import com.niit.project.boardtaskservice.domain.UserDetails;
++//import com.niit.project.boardtaskservice.exceptions.UserAlreadyExistsException;
++//import org.junit.jupiter.api.AfterEach;
++//import org.junit.jupiter.api.BeforeEach;
++//import org.junit.jupiter.api.Test;
++//import org.junit.jupiter.api.extension.ExtendWith;
++//import org.mockito.InjectMocks;
++//import org.mockito.Mock;
++//import org.mockito.junit.jupiter.MockitoExtension;
++//import org.springframework.http.MediaType;
++//import org.springframework.test.web.servlet.MockMvc;
++//import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
++//import org.springframework.test.web.servlet.result.MockMvcResultHandlers;
++//import org.springframework.test.web.servlet.setup.MockMvcBuilders;
++//
++//
++//import static org.mockito.ArgumentMatchers.any;
++//import static org.mockito.Mockito.*;
++//import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
++//@ExtendWith(MockitoExtension.class)
++//class UserControllerTest {
++//    private MockMvc mockMvc;
++//
++//    @Mock
++//    private TaskServiceImpl taskService;
++//
++//    @InjectMocks
++//    private UserController userController;
++//
++//    UserDetails user1 ,user2;
++//
++//    @BeforeEach
++//    void setUp() {
++//        user1=new UserDetails("sharath@gmail.com","sharath","124571","Admin",null);
++//        user2=new UserDetails("shubham@gmail.com","shubham","1241","User",null);
++//        mockMvc = MockMvcBuilders.standaloneSetup(userController).build();
++//    }
++//
++//    @AfterEach
++//    void tearDown() {
++//        user1=null;
++//        user2=null;
++//    }
++//
++//    @Test
++//    void registerUserSuccess() throws Exception {
++//        when(taskService.registerUser(any())).thenReturn(user1);
++//        mockMvc.perform(MockMvcRequestBuilders.post("/api/v3/saveUser")
++//                        .contentType(MediaType.APPLICATION_JSON)
++//                        .content(asJSONString(user1)))
++//                .andExpect(status().isAccepted())
++//                .andDo(MockMvcResultHandlers.print());
++//        verify(taskService,times(1)).registerUser(any());
++//    }
++//    @Test
++//    public void registerUserFailure() throws Exception {
++//        when(taskService.registerUser(any())).thenThrow(UserAlreadyExistsException.class);
++//        mockMvc.perform(MockMvcRequestBuilders.post("/api/v3/saveUser")
++//                        .contentType(MediaType.APPLICATION_JSON)
++//                        .content(asJSONString(user1)))
++//                .andExpect(status().isConflict())
++//                .andDo(MockMvcResultHandlers.print());
++//        verify(taskService,times(1)).registerUser(any());
++//    }
++//    private static String asJSONString(Object user) {
++//        try {
++//            return new ObjectMapper().writeValueAsString(user);
++//        } catch (Exception e) {
++//            throw new RuntimeException(e);
++//        }
++//    }
++//
++//}
+Index: boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/AdminController.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.niit.project.boardtaskservice.controller;\r\n\r\nimport com.niit.project.boardtaskservice.domain.Task;\r\nimport com.niit.project.boardtaskservice.domain.UserDetails;\r\nimport com.niit.project.boardtaskservice.exceptions.TaskNotFoundException;\r\nimport com.niit.project.boardtaskservice.exceptions.UserAlreadyExistsException;\r\nimport com.niit.project.boardtaskservice.exceptions.UserNotFoundException;\r\nimport com.niit.project.boardtaskservice.services.IAdminService;\r\nimport com.niit.project.boardtaskservice.services.ITaskService;\r\nimport jakarta.servlet.http.HttpServletRequest;\r\nimport org.springframework.beans.factory.annotation.Autowired;\r\nimport org.springframework.http.HttpStatus;\r\nimport org.springframework.http.ResponseEntity;\r\nimport org.springframework.web.bind.annotation.*;\r\n\r\nimport java.util.List;\r\n\r\n@RestController\r\n@RequestMapping(\"/api/v2\")\r\npublic class AdminController {\r\n    private final IAdminService adminService;\r\n\r\n\r\n\r\n    @Autowired\r\n    public AdminController(IAdminService adminService) {\r\n        this.adminService = adminService;\r\n\r\n    }\r\n\r\n    @PostMapping(\"/saveUser\")\r\n    public ResponseEntity<?> registerUser(@RequestBody UserDetails userDetails) {\r\n        ResponseEntity responseEntity;\r\n        try {\r\n            UserDetails saveduser = adminService.registerUser(userDetails);\r\n            responseEntity = new ResponseEntity<>(saveduser, HttpStatus.ACCEPTED);\r\n        } catch (UserAlreadyExistsException exception) {\r\n            responseEntity = new ResponseEntity<>(exception.getMessage(), HttpStatus.CONFLICT);\r\n        }\r\n        return responseEntity;\r\n    }\r\n    @PutMapping(\"/updateTask\")\r\n    public ResponseEntity<?> updateTaskToUser(@RequestBody Task task, HttpServletRequest request) {\r\n        ResponseEntity responseEntity;\r\n        try {\r\n            String userId = getCustomerIdFromClaims(request);\r\n            responseEntity = new ResponseEntity<>(adminService.updateTaskToUser(task, userId), HttpStatus.FOUND);\r\n        } catch (TaskNotFoundException exception) {\r\n            responseEntity = new ResponseEntity<>(exception.getMessage(), HttpStatus.CONFLICT);\r\n        }\r\n        return responseEntity;\r\n    }\r\n    @DeleteMapping(\"/deleteTask\")\r\n    public ResponseEntity<?> deleteTaskToUser(@RequestBody Task task, HttpServletRequest request) {\r\n        ResponseEntity responseEntity;\r\n        try {\r\n            String userId = getCustomerIdFromClaims(request);\r\n            responseEntity = new ResponseEntity<>(adminService.deleteTask(task, userId), HttpStatus.OK);\r\n        } catch (TaskNotFoundException exception) {\r\n            responseEntity = new ResponseEntity<>(exception.getMessage(), HttpStatus.CONFLICT);\r\n        }\r\n        return responseEntity;\r\n    }\r\n    @GetMapping(\"/userName\")\r\n    public ResponseEntity<?> getUserName(HttpServletRequest request) {\r\n        ResponseEntity responseEntity;\r\n        try {\r\n            String userId = getCustomerIdFromClaims(request);\r\n            String userName = adminService.getUserName(userId);\r\n            responseEntity = new ResponseEntity<>(userName, HttpStatus.FOUND);\r\n        } catch (Exception e) {\r\n            responseEntity = new ResponseEntity<>(e.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);\r\n        }\r\n        return responseEntity;\r\n    }\r\n    @GetMapping(\"/allUsers\")\r\n    public ResponseEntity<?> getAllUser(HttpServletRequest request) {\r\n        ResponseEntity responseEntity;\r\n        try {\r\n            String userId = getCustomerIdFromClaims(request);\r\n            List<UserDetails> users = adminService.getAllUser(userId);\r\n            responseEntity = new ResponseEntity<>(users, HttpStatus.FOUND);\r\n        } catch (Exception e) {\r\n            responseEntity = new ResponseEntity<>(e.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);\r\n        }\r\n        return responseEntity;\r\n    }\r\n    @GetMapping(\"/userRole\")\r\n    public ResponseEntity<?> getUserRole(HttpServletRequest request) {\r\n        ResponseEntity responseEntity;\r\n        try {\r\n            String userId = getCustomerIdFromClaims(request);\r\n            String userRole = adminService.getUserRole(userId);\r\n            responseEntity = new ResponseEntity<>(userRole, HttpStatus.FOUND);\r\n        } catch (Exception e) {\r\n            responseEntity = new ResponseEntity<>(e.getMessage(), HttpStatus.INTERNAL_SERVER_ERROR);\r\n        }\r\n        return responseEntity;\r\n    }\r\n\r\n    @PostMapping (\"/saveTaskToUser\")\r\n    public ResponseEntity<?> saveTaskToUser(@RequestBody Task task,HttpServletRequest request){\r\n        ResponseEntity responseEntity;\r\n        try{\r\n            String userId = getCustomerIdFromClaims(request);\r\n            responseEntity=new ResponseEntity<>(adminService.saveTaskToUser(task,userId),HttpStatus.FOUND);\r\n        }\r\n        catch(TaskNotFoundException exception){\r\n            responseEntity=new ResponseEntity<>(exception.getMessage(),HttpStatus.CONFLICT);\r\n        }\r\n        return responseEntity;\r\n    }\r\n    @DeleteMapping(\"/deleteUser\")\r\n    public ResponseEntity<?> deleteUser(HttpServletRequest request) {\r\n        ResponseEntity responseEntity;\r\n        try {\r\n            String userId = getCustomerIdFromClaims(request);\r\n            responseEntity = new ResponseEntity<>(adminService.deleteUser(userId), HttpStatus.OK);\r\n        } catch (UserNotFoundException exception) {\r\n            responseEntity = new ResponseEntity<>(exception.getMessage(), HttpStatus.CONFLICT);\r\n        }\r\n        return responseEntity;\r\n    }\r\n    private String getCustomerIdFromClaims(HttpServletRequest request) {\r\n        String userId=request.getAttribute(\"emailId\").toString();\r\n        return userId;\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/AdminController.java b/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/AdminController.java
+--- a/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/AdminController.java	
++++ b/boardtaskservice/src/main/java/com/niit/project/boardtaskservice/controller/AdminController.java	
+@@ -6,7 +6,6 @@
+ import com.niit.project.boardtaskservice.exceptions.UserAlreadyExistsException;
+ import com.niit.project.boardtaskservice.exceptions.UserNotFoundException;
+ import com.niit.project.boardtaskservice.services.IAdminService;
+-import com.niit.project.boardtaskservice.services.ITaskService;
+ import jakarta.servlet.http.HttpServletRequest;
+ import org.springframework.beans.factory.annotation.Autowired;
+ import org.springframework.http.HttpStatus;
+@@ -16,16 +15,14 @@
+ import java.util.List;
+ 
+ @RestController
++
+ @RequestMapping("/api/v2")
+ public class AdminController {
+     private final IAdminService adminService;
+ 
+-
+-
+     @Autowired
+     public AdminController(IAdminService adminService) {
+         this.adminService = adminService;
+-
+     }
+ 
+     @PostMapping("/saveUser")
+Index: boardtaskservice/src/test/java/com/niit/project/boardtaskservice/service/TaskServiceTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import com.niit.project.boardtaskservice.domain.Task;\r\nimport com.niit.project.boardtaskservice.domain.UserDetails;\r\nimport com.niit.project.boardtaskservice.exceptions.TaskAlreadyExistsException;\r\nimport com.niit.project.boardtaskservice.exceptions.TaskNotFoundException;\r\nimport com.niit.project.boardtaskservice.exceptions.UserAlreadyExistsException;\r\nimport com.niit.project.boardtaskservice.exceptions.UserNotFoundException;\r\nimport com.niit.project.boardtaskservice.repository.ITaskRepository;\r\nimport com.niit.project.boardtaskservice.proxy.TaskProxy;\r\nimport com.niit.project.boardtaskservice.services.TaskServiceImpl;\r\nimport org.junit.jupiter.api.*;\r\nimport org.junit.jupiter.api.extension.ExtendWith;\r\nimport org.mockito.InjectMocks;\r\nimport org.mockito.Mock;\r\nimport org.mockito.junit.jupiter.MockitoExtension;\r\nimport java.util.ArrayList;\r\nimport java.util.Arrays;\r\nimport java.util.List;\r\nimport java.util.Optional;\r\nimport static org.junit.jupiter.api.Assertions.*;\r\nimport static org.mockito.Mockito.*;\r\n@ExtendWith(MockitoExtension.class)\r\nclass TaskServiceTest {\r\n    @Mock\r\n    private ITaskRepository taskRepository;\r\n    @Mock\r\n    private TaskProxy taskProxy;\r\n    @InjectMocks\r\n    private TaskServiceImpl taskService;\r\n    private UserDetails user;\r\n    private Task task1,task2;\r\n    @BeforeEach\r\n    void setUp() {\r\n        user = new UserDetails(\"shubham@gmail.com\", \"User\", \"password\", \"user\", new ArrayList<>());\r\n        task1 = new Task(1, \"Project\", \"Creating\", \"2024-02-22\", \"shubham\", \"In Progress\");\r\n        task2 = new Task(2, \"Project2\", \"Creating2\", \"2024-02-23\", \"shubham\", \"In Progress\");\r\n        user.setTaskList(Arrays.asList(task1, task2));\r\n    }\r\n    @Test\r\n    void registerUser_Success() throws UserAlreadyExistsException {\r\n        when(taskRepository.findById(user.getEmailId())).thenReturn(Optional.empty());\r\n        when(taskRepository.save(user)).thenReturn(user);\r\n\r\n        UserDetails savedUser = taskService.registerUser(user);\r\n\r\n        assertNotNull(savedUser);\r\n        assertEquals(user, savedUser);\r\n        verify(taskProxy, times(1)).registerUser(user);\r\n    }\r\n    @Test\r\n    void registerUser_UserAlreadyExists() {\r\n        when(taskRepository.findById(user.getEmailId())).thenReturn(Optional.of(user));\r\n\r\n        assertThrows(UserAlreadyExistsException.class, () -> taskService.registerUser(user));\r\n\r\n        verify(taskRepository, never()).save(any());\r\n        verify(taskProxy, never()).registerUser(any());\r\n    }\r\n    @Test\r\n    void saveTaskToUser_Success() throws TaskAlreadyExistsException, UserAlreadyExistsException {\r\n        UserDetails mockedUser = mock(UserDetails.class);\r\n\r\n        List<Task> taskList = new ArrayList<>();\r\n        when(mockedUser.getTaskList()).thenReturn(taskList);\r\n        when(taskRepository.findById(anyString())).thenReturn(Optional.of(mockedUser));\r\n\r\n        UserDetails updatedUser = taskService.saveTaskToUser(task1, \"anyEmailId\");\r\n    }\r\n    @Test\r\n    void updateTaskToUser_Success() throws TaskNotFoundException, UserNotFoundException {\r\n        when(taskRepository.findById(user.getEmailId())).thenReturn(Optional.of(user));\r\n        when(taskRepository.save(any())).thenReturn(user);\r\n\r\n        UserDetails updatedUser = taskService.updateTaskToUser(task1, user.getEmailId());\r\n\r\n        assertNotNull(updatedUser);\r\n        assertTrue(updatedUser.getTaskList().contains(task1));\r\n        verify(taskRepository, times(1)).save(user);\r\n    }\r\n    @Test\r\n    void deleteTask_Success() throws TaskNotFoundException, UserNotFoundException {\r\n        UserDetails mockedUser = mock(UserDetails.class);\r\n        Task taskToDelete = new Task(1, \"TaskToDelete\", \"Description\", \"2024-02-22\", \"AssignTo\", \"Status\");\r\n        List<Task> taskList = new ArrayList<>();\r\n        taskList.add(taskToDelete);\r\n        when(taskRepository.findById(anyString())).thenReturn(Optional.of(mockedUser));\r\n        when(mockedUser.getTaskList()).thenReturn(taskList);\r\n        when(taskRepository.save(any())).thenReturn(mockedUser);\r\n        UserDetails updatedUser = taskService.deleteTask(taskToDelete, \"anyEmailId\");\r\n        verify(taskRepository, times(1)).findById(\"anyEmailId\");\r\n        verify(taskRepository, times(1)).save(mockedUser);\r\n        assertNotNull(updatedUser);\r\n        assertEquals(mockedUser, updatedUser);\r\n        assertFalse(updatedUser.getTaskList().contains(taskToDelete));\r\n    }\r\n    @Test\r\n    void getAllTaskFromUser_UserExistsWithTasks_ReturnsTaskList() throws TaskNotFoundException, UserNotFoundException {\r\n        String emailId = \"hinata@gmail.com.com\";\r\n        List<Task> expectedTaskList = new ArrayList<>();\r\n        expectedTaskList.add(new Task());\r\n        expectedTaskList.add(new Task());\r\n        UserDetails userWithTasks = new UserDetails();\r\n        userWithTasks.setEmailId(emailId);\r\n        userWithTasks.setTaskList(expectedTaskList);\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithTasks));\r\n\r\n        List<Task> actualTaskList = taskService.getAllTaskFromUser(emailId);\r\n\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n\r\n        assertEquals(expectedTaskList, actualTaskList);\r\n    }\r\n    @Test\r\n    void getAllTaskFromUser_UserExistsWithoutTasks_ThrowsTaskNotFoundException() {\r\n        String emailId = \"sharath@gmail.com\";\r\n        UserDetails userWithoutTasks = new UserDetails();\r\n        userWithoutTasks.setEmailId(emailId);\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithoutTasks));\r\n\r\n        assertThrows(TaskNotFoundException.class, () -> taskService.getAllTaskFromUser(emailId));\r\n\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n    }\r\n    @Test\r\n    void getAllTaskFromUser_UserNotFound_ThrowsUserNotFoundException() {\r\n        String emailId = \"Nami@gmail.com\";\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());\r\n\r\n        assertThrows(UserNotFoundException.class, () -> taskService.getAllTaskFromUser(emailId));\r\n\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n    }\r\n    @Test\r\n    void getOneTaskById_TaskFound_ReturnsTask() throws TaskNotFoundException, UserNotFoundException {\r\n        String emailId = \"test@example.com\";\r\n        int taskId = 123;\r\n        Task expectedTask = new Task();\r\n        expectedTask.setTaskId(taskId);\r\n        UserDetails userWithTasks = new UserDetails();\r\n        userWithTasks.setEmailId(emailId);\r\n        List<Task> taskList = new ArrayList<>();\r\n        taskList.add(expectedTask);\r\n        userWithTasks.setTaskList(taskList);\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithTasks));\r\n        Task actualTask = taskService.getOneTaskById(taskId, emailId);\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n        assertEquals(expectedTask, actualTask);\r\n    }\r\n    @Test\r\n    void getOneTaskById_TaskNotFound_ThrowsTaskNotFoundException() {\r\n        String emailId = \"shubham@gmail.com\";\r\n        int taskId = 123;\r\n        UserDetails userWithTasks = new UserDetails();\r\n        userWithTasks.setEmailId(emailId);\r\n        List<Task> taskList = new ArrayList<>();\r\n        userWithTasks.setTaskList(taskList);\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithTasks));\r\n        assertThrows(TaskNotFoundException.class, () -> taskService.getOneTaskById(taskId, emailId));\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n    }\r\n    @Test\r\n    void getOneTaskById_UserNotFound_ThrowsUserNotFoundException() {\r\n        String emailId = \"robin@gmail.com\";\r\n        int taskId = 123;\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());\r\n        assertThrows(UserNotFoundException.class, () -> taskService.getOneTaskById(taskId, emailId));\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n    }\r\n    @Test\r\n    void getUserName_UserFound_ReturnsUserName() throws UserNotFoundException {\r\n        String emailId = \"shubham@gmail.com\";\r\n        String expectedUserName = \"Test User\";\r\n        UserDetails userDetails = new UserDetails();\r\n        userDetails.setEmailId(emailId);\r\n        userDetails.setUserName(expectedUserName);\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userDetails));\r\n        String actualUserName = taskService.getUserName(emailId);\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n        assertEquals(expectedUserName, actualUserName);\r\n    }\r\n    @Test\r\n    void getUserName_UserNotFound_ThrowsUserNotFoundException() {\r\n        String emailId = \"robin@gmial.com\";\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());\r\n        assertThrows(UserNotFoundException.class, () -> taskService.getUserName(emailId));\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n    }\r\n    @Test\r\n    void getAllUser_UserFound_ReturnsAllUsers() throws UserNotFoundException {\r\n        String emailId = \"shubham@gmail.com\";\r\n        UserDetails userDetails = new UserDetails();\r\n        List<UserDetails> userList = new ArrayList<>();\r\n        userList.add(userDetails);\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userDetails));\r\n        when(taskRepository.findAll()).thenReturn(userList);\r\n        List<UserDetails> actualUsers = taskService.getAllUser(emailId);\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n        verify(taskRepository, times(1)).findAll();\r\n        assertEquals(userList, actualUsers);\r\n    }\r\n    @Test\r\n    void getAllUser_UserNotFound_ThrowsUserNotFoundException() {\r\n        String emailId = \"robin@gmail.com\";\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());\r\n        assertThrows(UserNotFoundException.class, () -> taskService.getAllUser(emailId));\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n        verify(taskRepository, never()).findAll();\r\n    }\r\n    @Test\r\n    void getUserRole_UserFound_ReturnsRole() throws UserNotFoundException {\r\n        // Mock data\r\n        String emailId = \"shubham@gmail.com\";\r\n        String role = \"admin\";\r\n        UserDetails userDetails = new UserDetails();\r\n        userDetails.setRole(role);\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userDetails));\r\n        String actualRole = taskService.getUserRole(emailId);\r\n        verify(taskRepository, times(2)).findById(emailId);\r\n        assertEquals(role, actualRole);\r\n    }\r\n    @Test\r\n    void getUserRole_UserNotFound_ThrowsUserNotFoundException() {\r\n        String emailId = \"nonexistent@example.com\";\r\n        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());\r\n        assertThrows(UserNotFoundException.class, () -> taskService.getUserRole(emailId));\r\n        verify(taskRepository, times(1)).findById(emailId);\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/service/TaskServiceTest.java b/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/service/TaskServiceTest.java
+--- a/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/service/TaskServiceTest.java	
++++ b/boardtaskservice/src/test/java/com/niit/project/boardtaskservice/service/TaskServiceTest.java	
+@@ -1,227 +1,226 @@
+-import com.niit.project.boardtaskservice.domain.Task;
+-import com.niit.project.boardtaskservice.domain.UserDetails;
+-import com.niit.project.boardtaskservice.exceptions.TaskAlreadyExistsException;
+-import com.niit.project.boardtaskservice.exceptions.TaskNotFoundException;
+-import com.niit.project.boardtaskservice.exceptions.UserAlreadyExistsException;
+-import com.niit.project.boardtaskservice.exceptions.UserNotFoundException;
+-import com.niit.project.boardtaskservice.repository.ITaskRepository;
+-import com.niit.project.boardtaskservice.proxy.TaskProxy;
+-import com.niit.project.boardtaskservice.services.TaskServiceImpl;
+-import org.junit.jupiter.api.*;
+-import org.junit.jupiter.api.extension.ExtendWith;
+-import org.mockito.InjectMocks;
+-import org.mockito.Mock;
+-import org.mockito.junit.jupiter.MockitoExtension;
+-import java.util.ArrayList;
+-import java.util.Arrays;
+-import java.util.List;
+-import java.util.Optional;
+-import static org.junit.jupiter.api.Assertions.*;
+-import static org.mockito.Mockito.*;
+-@ExtendWith(MockitoExtension.class)
+-class TaskServiceTest {
+-    @Mock
+-    private ITaskRepository taskRepository;
+-    @Mock
+-    private TaskProxy taskProxy;
+-    @InjectMocks
+-    private TaskServiceImpl taskService;
+-    private UserDetails user;
+-    private Task task1,task2;
+-    @BeforeEach
+-    void setUp() {
+-        user = new UserDetails("shubham@gmail.com", "User", "password", "user", new ArrayList<>());
+-        task1 = new Task(1, "Project", "Creating", "2024-02-22", "shubham", "In Progress");
+-        task2 = new Task(2, "Project2", "Creating2", "2024-02-23", "shubham", "In Progress");
+-        user.setTaskList(Arrays.asList(task1, task2));
+-    }
+-    @Test
+-    void registerUser_Success() throws UserAlreadyExistsException {
+-        when(taskRepository.findById(user.getEmailId())).thenReturn(Optional.empty());
+-        when(taskRepository.save(user)).thenReturn(user);
+-
+-        UserDetails savedUser = taskService.registerUser(user);
+-
+-        assertNotNull(savedUser);
+-        assertEquals(user, savedUser);
+-        verify(taskProxy, times(1)).registerUser(user);
+-    }
+-    @Test
+-    void registerUser_UserAlreadyExists() {
+-        when(taskRepository.findById(user.getEmailId())).thenReturn(Optional.of(user));
+-
+-        assertThrows(UserAlreadyExistsException.class, () -> taskService.registerUser(user));
+-
+-        verify(taskRepository, never()).save(any());
+-        verify(taskProxy, never()).registerUser(any());
+-    }
+-    @Test
+-    void saveTaskToUser_Success() throws TaskAlreadyExistsException, UserAlreadyExistsException {
+-        UserDetails mockedUser = mock(UserDetails.class);
+-
+-        List<Task> taskList = new ArrayList<>();
+-        when(mockedUser.getTaskList()).thenReturn(taskList);
+-        when(taskRepository.findById(anyString())).thenReturn(Optional.of(mockedUser));
+-
+-        UserDetails updatedUser = taskService.saveTaskToUser(task1, "anyEmailId");
+-    }
+-    @Test
+-    void updateTaskToUser_Success() throws TaskNotFoundException, UserNotFoundException {
+-        when(taskRepository.findById(user.getEmailId())).thenReturn(Optional.of(user));
+-        when(taskRepository.save(any())).thenReturn(user);
+-
+-        UserDetails updatedUser = taskService.updateTaskToUser(task1, user.getEmailId());
+-
+-        assertNotNull(updatedUser);
+-        assertTrue(updatedUser.getTaskList().contains(task1));
+-        verify(taskRepository, times(1)).save(user);
+-    }
+-    @Test
+-    void deleteTask_Success() throws TaskNotFoundException, UserNotFoundException {
+-        UserDetails mockedUser = mock(UserDetails.class);
+-        Task taskToDelete = new Task(1, "TaskToDelete", "Description", "2024-02-22", "AssignTo", "Status");
+-        List<Task> taskList = new ArrayList<>();
+-        taskList.add(taskToDelete);
+-        when(taskRepository.findById(anyString())).thenReturn(Optional.of(mockedUser));
+-        when(mockedUser.getTaskList()).thenReturn(taskList);
+-        when(taskRepository.save(any())).thenReturn(mockedUser);
+-        UserDetails updatedUser = taskService.deleteTask(taskToDelete, "anyEmailId");
+-        verify(taskRepository, times(1)).findById("anyEmailId");
+-        verify(taskRepository, times(1)).save(mockedUser);
+-        assertNotNull(updatedUser);
+-        assertEquals(mockedUser, updatedUser);
+-        assertFalse(updatedUser.getTaskList().contains(taskToDelete));
+-    }
+-    @Test
+-    void getAllTaskFromUser_UserExistsWithTasks_ReturnsTaskList() throws TaskNotFoundException, UserNotFoundException {
+-        String emailId = "hinata@gmail.com.com";
+-        List<Task> expectedTaskList = new ArrayList<>();
+-        expectedTaskList.add(new Task());
+-        expectedTaskList.add(new Task());
+-        UserDetails userWithTasks = new UserDetails();
+-        userWithTasks.setEmailId(emailId);
+-        userWithTasks.setTaskList(expectedTaskList);
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithTasks));
+-
+-        List<Task> actualTaskList = taskService.getAllTaskFromUser(emailId);
+-
+-        verify(taskRepository, times(1)).findById(emailId);
+-
+-        assertEquals(expectedTaskList, actualTaskList);
+-    }
+-    @Test
+-    void getAllTaskFromUser_UserExistsWithoutTasks_ThrowsTaskNotFoundException() {
+-        String emailId = "sharath@gmail.com";
+-        UserDetails userWithoutTasks = new UserDetails();
+-        userWithoutTasks.setEmailId(emailId);
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithoutTasks));
+-
+-        assertThrows(TaskNotFoundException.class, () -> taskService.getAllTaskFromUser(emailId));
+-
+-        verify(taskRepository, times(1)).findById(emailId);
+-    }
+-    @Test
+-    void getAllTaskFromUser_UserNotFound_ThrowsUserNotFoundException() {
+-        String emailId = "Nami@gmail.com";
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());
+-
+-        assertThrows(UserNotFoundException.class, () -> taskService.getAllTaskFromUser(emailId));
+-
+-        verify(taskRepository, times(1)).findById(emailId);
+-    }
+-    @Test
+-    void getOneTaskById_TaskFound_ReturnsTask() throws TaskNotFoundException, UserNotFoundException {
+-        String emailId = "test@example.com";
+-        int taskId = 123;
+-        Task expectedTask = new Task();
+-        expectedTask.setTaskId(taskId);
+-        UserDetails userWithTasks = new UserDetails();
+-        userWithTasks.setEmailId(emailId);
+-        List<Task> taskList = new ArrayList<>();
+-        taskList.add(expectedTask);
+-        userWithTasks.setTaskList(taskList);
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithTasks));
+-        Task actualTask = taskService.getOneTaskById(taskId, emailId);
+-        verify(taskRepository, times(1)).findById(emailId);
+-        assertEquals(expectedTask, actualTask);
+-    }
+-    @Test
+-    void getOneTaskById_TaskNotFound_ThrowsTaskNotFoundException() {
+-        String emailId = "shubham@gmail.com";
+-        int taskId = 123;
+-        UserDetails userWithTasks = new UserDetails();
+-        userWithTasks.setEmailId(emailId);
+-        List<Task> taskList = new ArrayList<>();
+-        userWithTasks.setTaskList(taskList);
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithTasks));
+-        assertThrows(TaskNotFoundException.class, () -> taskService.getOneTaskById(taskId, emailId));
+-        verify(taskRepository, times(1)).findById(emailId);
+-    }
+-    @Test
+-    void getOneTaskById_UserNotFound_ThrowsUserNotFoundException() {
+-        String emailId = "robin@gmail.com";
+-        int taskId = 123;
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());
+-        assertThrows(UserNotFoundException.class, () -> taskService.getOneTaskById(taskId, emailId));
+-        verify(taskRepository, times(1)).findById(emailId);
+-    }
+-    @Test
+-    void getUserName_UserFound_ReturnsUserName() throws UserNotFoundException {
+-        String emailId = "shubham@gmail.com";
+-        String expectedUserName = "Test User";
+-        UserDetails userDetails = new UserDetails();
+-        userDetails.setEmailId(emailId);
+-        userDetails.setUserName(expectedUserName);
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userDetails));
+-        String actualUserName = taskService.getUserName(emailId);
+-        verify(taskRepository, times(1)).findById(emailId);
+-        assertEquals(expectedUserName, actualUserName);
+-    }
+-    @Test
+-    void getUserName_UserNotFound_ThrowsUserNotFoundException() {
+-        String emailId = "robin@gmial.com";
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());
+-        assertThrows(UserNotFoundException.class, () -> taskService.getUserName(emailId));
+-        verify(taskRepository, times(1)).findById(emailId);
+-    }
+-    @Test
+-    void getAllUser_UserFound_ReturnsAllUsers() throws UserNotFoundException {
+-        String emailId = "shubham@gmail.com";
+-        UserDetails userDetails = new UserDetails();
+-        List<UserDetails> userList = new ArrayList<>();
+-        userList.add(userDetails);
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userDetails));
+-        when(taskRepository.findAll()).thenReturn(userList);
+-        List<UserDetails> actualUsers = taskService.getAllUser(emailId);
+-        verify(taskRepository, times(1)).findById(emailId);
+-        verify(taskRepository, times(1)).findAll();
+-        assertEquals(userList, actualUsers);
+-    }
+-    @Test
+-    void getAllUser_UserNotFound_ThrowsUserNotFoundException() {
+-        String emailId = "robin@gmail.com";
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());
+-        assertThrows(UserNotFoundException.class, () -> taskService.getAllUser(emailId));
+-        verify(taskRepository, times(1)).findById(emailId);
+-        verify(taskRepository, never()).findAll();
+-    }
+-    @Test
+-    void getUserRole_UserFound_ReturnsRole() throws UserNotFoundException {
+-        // Mock data
+-        String emailId = "shubham@gmail.com";
+-        String role = "admin";
+-        UserDetails userDetails = new UserDetails();
+-        userDetails.setRole(role);
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userDetails));
+-        String actualRole = taskService.getUserRole(emailId);
+-        verify(taskRepository, times(2)).findById(emailId);
+-        assertEquals(role, actualRole);
+-    }
+-    @Test
+-    void getUserRole_UserNotFound_ThrowsUserNotFoundException() {
+-        String emailId = "nonexistent@example.com";
+-        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());
+-        assertThrows(UserNotFoundException.class, () -> taskService.getUserRole(emailId));
+-        verify(taskRepository, times(1)).findById(emailId);
+-    }
+-}
++//import com.niit.project.boardtaskservice.domain.Task;
++//import com.niit.project.boardtaskservice.domain.UserDetails;
++//import com.niit.project.boardtaskservice.exceptions.TaskAlreadyExistsException;
++//import com.niit.project.boardtaskservice.exceptions.TaskNotFoundException;
++//import com.niit.project.boardtaskservice.exceptions.UserAlreadyExistsException;
++//import com.niit.project.boardtaskservice.exceptions.UserNotFoundException;
++//import com.niit.project.boardtaskservice.repository.ITaskRepository;
++//import com.niit.project.boardtaskservice.proxy.TaskProxy;
++//import org.junit.jupiter.api.*;
++//import org.junit.jupiter.api.extension.ExtendWith;
++//import org.mockito.InjectMocks;
++//import org.mockito.Mock;
++//import org.mockito.junit.jupiter.MockitoExtension;
++//import java.util.ArrayList;
++//import java.util.Arrays;
++//import java.util.List;
++//import java.util.Optional;
++//import static org.junit.jupiter.api.Assertions.*;
++//import static org.mockito.Mockito.*;
++//@ExtendWith(MockitoExtension.class)
++//class TaskServiceTest {
++//    @Mock
++//    private ITaskRepository taskRepository;
++//    @Mock
++//    private TaskProxy taskProxy;
++//    @InjectMocks
++//    private TaskServiceImpl taskService;
++//    private UserDetails user;
++//    private Task task1,task2;
++//    @BeforeEach
++//    void setUp() {
++//        user = new UserDetails("shubham@gmail.com", "User", "password", "user", new ArrayList<>());
++//        task1 = new Task(1, "Project", "Creating", "2024-02-22", "shubham", "In Progress");
++//        task2 = new Task(2, "Project2", "Creating2", "2024-02-23", "shubham", "In Progress");
++//        user.setTaskList(Arrays.asList(task1, task2));
++//    }
++//    @Test
++//    void registerUser_Success() throws UserAlreadyExistsException {
++//        when(taskRepository.findById(user.getEmailId())).thenReturn(Optional.empty());
++//        when(taskRepository.save(user)).thenReturn(user);
++//
++//        UserDetails savedUser = taskService.registerUser(user);
++//
++//        assertNotNull(savedUser);
++//        assertEquals(user, savedUser);
++//        verify(taskProxy, times(1)).registerUser(user);
++//    }
++//    @Test
++//    void registerUser_UserAlreadyExists() {
++//        when(taskRepository.findById(user.getEmailId())).thenReturn(Optional.of(user));
++//
++//        assertThrows(UserAlreadyExistsException.class, () -> taskService.registerUser(user));
++//
++//        verify(taskRepository, never()).save(any());
++//        verify(taskProxy, never()).registerUser(any());
++//    }
++//    @Test
++//    void saveTaskToUser_Success() throws TaskAlreadyExistsException, UserAlreadyExistsException {
++//        UserDetails mockedUser = mock(UserDetails.class);
++//
++//        List<Task> taskList = new ArrayList<>();
++//        when(mockedUser.getTaskList()).thenReturn(taskList);
++//        when(taskRepository.findById(anyString())).thenReturn(Optional.of(mockedUser));
++//
++//        UserDetails updatedUser = taskService.saveTaskToUser(task1, "anyEmailId");
++//    }
++//    @Test
++//    void updateTaskToUser_Success() throws TaskNotFoundException, UserNotFoundException {
++//        when(taskRepository.findById(user.getEmailId())).thenReturn(Optional.of(user));
++//        when(taskRepository.save(any())).thenReturn(user);
++//
++//        UserDetails updatedUser = taskService.updateTaskToUser(task1, user.getEmailId());
++//
++//        assertNotNull(updatedUser);
++//        assertTrue(updatedUser.getTaskList().contains(task1));
++//        verify(taskRepository, times(1)).save(user);
++//    }
++//    @Test
++//    void deleteTask_Success() throws TaskNotFoundException, UserNotFoundException {
++//        UserDetails mockedUser = mock(UserDetails.class);
++//        Task taskToDelete = new Task(1, "TaskToDelete", "Description", "2024-02-22", "AssignTo", "Status");
++//        List<Task> taskList = new ArrayList<>();
++//        taskList.add(taskToDelete);
++//        when(taskRepository.findById(anyString())).thenReturn(Optional.of(mockedUser));
++//        when(mockedUser.getTaskList()).thenReturn(taskList);
++//        when(taskRepository.save(any())).thenReturn(mockedUser);
++//        UserDetails updatedUser = taskService.deleteTask(taskToDelete, "anyEmailId");
++//        verify(taskRepository, times(1)).findById("anyEmailId");
++//        verify(taskRepository, times(1)).save(mockedUser);
++//        assertNotNull(updatedUser);
++//        assertEquals(mockedUser, updatedUser);
++//        assertFalse(updatedUser.getTaskList().contains(taskToDelete));
++//    }
++//    @Test
++//    void getAllTaskFromUser_UserExistsWithTasks_ReturnsTaskList() throws TaskNotFoundException, UserNotFoundException {
++//        String emailId = "hinata@gmail.com.com";
++//        List<Task> expectedTaskList = new ArrayList<>();
++//        expectedTaskList.add(new Task());
++//        expectedTaskList.add(new Task());
++//        UserDetails userWithTasks = new UserDetails();
++//        userWithTasks.setEmailId(emailId);
++//        userWithTasks.setTaskList(expectedTaskList);
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithTasks));
++//
++//        List<Task> actualTaskList = taskService.getAllTaskFromUser(emailId);
++//
++//        verify(taskRepository, times(1)).findById(emailId);
++//
++//        assertEquals(expectedTaskList, actualTaskList);
++//    }
++//    @Test
++//    void getAllTaskFromUser_UserExistsWithoutTasks_ThrowsTaskNotFoundException() {
++//        String emailId = "sharath@gmail.com";
++//        UserDetails userWithoutTasks = new UserDetails();
++//        userWithoutTasks.setEmailId(emailId);
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithoutTasks));
++//
++//        assertThrows(TaskNotFoundException.class, () -> taskService.getAllTaskFromUser(emailId));
++//
++//        verify(taskRepository, times(1)).findById(emailId);
++//    }
++//    @Test
++//    void getAllTaskFromUser_UserNotFound_ThrowsUserNotFoundException() {
++//        String emailId = "Nami@gmail.com";
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());
++//
++//        assertThrows(UserNotFoundException.class, () -> taskService.getAllTaskFromUser(emailId));
++//
++//        verify(taskRepository, times(1)).findById(emailId);
++//    }
++//    @Test
++//    void getOneTaskById_TaskFound_ReturnsTask() throws TaskNotFoundException, UserNotFoundException {
++//        String emailId = "test@example.com";
++//        int taskId = 123;
++//        Task expectedTask = new Task();
++//        expectedTask.setTaskId(taskId);
++//        UserDetails userWithTasks = new UserDetails();
++//        userWithTasks.setEmailId(emailId);
++//        List<Task> taskList = new ArrayList<>();
++//        taskList.add(expectedTask);
++//        userWithTasks.setTaskList(taskList);
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithTasks));
++//        Task actualTask = taskService.getOneTaskById(taskId, emailId);
++//        verify(taskRepository, times(1)).findById(emailId);
++//        assertEquals(expectedTask, actualTask);
++//    }
++//    @Test
++//    void getOneTaskById_TaskNotFound_ThrowsTaskNotFoundException() {
++//        String emailId = "shubham@gmail.com";
++//        int taskId = 123;
++//        UserDetails userWithTasks = new UserDetails();
++//        userWithTasks.setEmailId(emailId);
++//        List<Task> taskList = new ArrayList<>();
++//        userWithTasks.setTaskList(taskList);
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userWithTasks));
++//        assertThrows(TaskNotFoundException.class, () -> taskService.getOneTaskById(taskId, emailId));
++//        verify(taskRepository, times(1)).findById(emailId);
++//    }
++//    @Test
++//    void getOneTaskById_UserNotFound_ThrowsUserNotFoundException() {
++//        String emailId = "robin@gmail.com";
++//        int taskId = 123;
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());
++//        assertThrows(UserNotFoundException.class, () -> taskService.getOneTaskById(taskId, emailId));
++//        verify(taskRepository, times(1)).findById(emailId);
++//    }
++//    @Test
++//    void getUserName_UserFound_ReturnsUserName() throws UserNotFoundException {
++//        String emailId = "shubham@gmail.com";
++//        String expectedUserName = "Test User";
++//        UserDetails userDetails = new UserDetails();
++//        userDetails.setEmailId(emailId);
++//        userDetails.setUserName(expectedUserName);
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userDetails));
++//        String actualUserName = taskService.getUserName(emailId);
++//        verify(taskRepository, times(1)).findById(emailId);
++//        assertEquals(expectedUserName, actualUserName);
++//    }
++//    @Test
++//    void getUserName_UserNotFound_ThrowsUserNotFoundException() {
++//        String emailId = "robin@gmial.com";
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());
++//        assertThrows(UserNotFoundException.class, () -> taskService.getUserName(emailId));
++//        verify(taskRepository, times(1)).findById(emailId);
++//    }
++//    @Test
++//    void getAllUser_UserFound_ReturnsAllUsers() throws UserNotFoundException {
++//        String emailId = "shubham@gmail.com";
++//        UserDetails userDetails = new UserDetails();
++//        List<UserDetails> userList = new ArrayList<>();
++//        userList.add(userDetails);
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userDetails));
++//        when(taskRepository.findAll()).thenReturn(userList);
++//        List<UserDetails> actualUsers = taskService.getAllUser(emailId);
++//        verify(taskRepository, times(1)).findById(emailId);
++//        verify(taskRepository, times(1)).findAll();
++//        assertEquals(userList, actualUsers);
++//    }
++//    @Test
++//    void getAllUser_UserNotFound_ThrowsUserNotFoundException() {
++//        String emailId = "robin@gmail.com";
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());
++//        assertThrows(UserNotFoundException.class, () -> taskService.getAllUser(emailId));
++//        verify(taskRepository, times(1)).findById(emailId);
++//        verify(taskRepository, never()).findAll();
++//    }
++//    @Test
++//    void getUserRole_UserFound_ReturnsRole() throws UserNotFoundException {
++//        // Mock data
++//        String emailId = "shubham@gmail.com";
++//        String role = "admin";
++//        UserDetails userDetails = new UserDetails();
++//        userDetails.setRole(role);
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.of(userDetails));
++//        String actualRole = taskService.getUserRole(emailId);
++//        verify(taskRepository, times(2)).findById(emailId);
++//        assertEquals(role, actualRole);
++//    }
++//    @Test
++//    void getUserRole_UserNotFound_ThrowsUserNotFoundException() {
++//        String emailId = "nonexistent@example.com";
++//        when(taskRepository.findById(emailId)).thenReturn(Optional.empty());
++//        assertThrows(UserNotFoundException.class, () -> taskService.getUserRole(emailId));
++//        verify(taskRepository, times(1)).findById(emailId);
++//    }
++//}
